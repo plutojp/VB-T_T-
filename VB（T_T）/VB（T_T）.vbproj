@@ -105,6 +105,19 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="html\bookmarks2_2017_02_24.html" />
+    <Content Include="html\bookmarks_2017_02_23.html" />
+    <Content Include="html\bookmarks_2017_02_24.html" />
+    <Content Include="html\bookmarks_2017_03_02.html" />
+    <Content Include="html\bookmarks_2017_03_03.html" />
+    <Content Include="html\bookmarks_2017_03_03_2.html" />
+    <Content Include="html\bookmarks_2017_03_03_dev.html" />
+    <Content Include="html\bookmarks_2017_03_03_dev2.html" />
+    <Content Include="html\bookmarks_2017_03_06_1.html" />
+    <Content Include="html\bookmarks_2017_03_07.html" />
+    <Content Include="html\bookmarks_2017_03_14.html" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
