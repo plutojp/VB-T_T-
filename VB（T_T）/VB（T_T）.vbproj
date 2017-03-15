@@ -117,6 +117,8 @@
     <Content Include="html\bookmarks_2017_03_06_1.html" />
     <Content Include="html\bookmarks_2017_03_07.html" />
     <Content Include="html\bookmarks_2017_03_14.html" />
+    <Content Include="html\bookmarks_2017_03_15.html" />
+    <Content Include="html\bookmarks_2017_03_15_2.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
